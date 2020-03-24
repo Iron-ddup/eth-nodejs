@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gen3-new.js",
+  "dependencies": {
+    "async": "^3.1.0",
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0",
+    "web3": "^1.0.0-beta.52"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
